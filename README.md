@@ -39,7 +39,7 @@ Hi , I'm a Front end Developer
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="50" alt="redux" />
-      <br>Redux
+       <sub><b>Redux</b></sub>
     </td> 
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/><br/>
