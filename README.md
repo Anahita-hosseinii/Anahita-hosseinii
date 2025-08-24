@@ -10,7 +10,7 @@ Hi , I'm a Front end Developer
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>
         <sub><b>JavaScript</b></sub>
-      </td>
+      </td> 
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br/>
         <sub><b>TypeScript</b></sub>
@@ -37,6 +37,10 @@ Hi , I'm a Front end Developer
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/><br/>
         <sub><b>Material UI</b></sub>
       </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="50" alt="redux" />
+      <br>Redux
+    </td> 
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/><br/>
         <sub><b>Vue</b></sub>
